@@ -1,1 +1,23 @@
-#nav {display: inline}
+* {
+    font-size: 100%;
+    font-family: monospace;
+   }
+h1 {font-size: 20px;
+    text-align: center; }
+h2 {font-size: 14px;
+    text-align: center; }
+.nav-button {    
+
+    display: inline;
+    font-size: 16px;
+    font-family: monospace;
+    border-color: rgb(0, 0, 0);
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 5px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+.nav-list {
+    text-align: center; 
+}

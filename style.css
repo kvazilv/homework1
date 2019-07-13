@@ -24,9 +24,13 @@ a:hover {
     border-color: rgb(0, 0, 0);
     border-width: 1px;
     border-style: solid;
-    border-radius: 0px;
+    /* border-radius: 0px; */
     padding-right: 15px;
     padding-left: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    line-height: 2;
+    white-space: nowrap
 }
 .nav-list {
     text-align: center; 
@@ -44,8 +48,12 @@ a:hover {
     /* height: 200px} */
 }
 
-ol li{ text-align:center; list-style-position: inside; }
-ul li{ text-align:center; list-style-position: inside; }
+ol li{ text-align:center; 
+    list-style-position: inside; 
+}
+ul li{ text-align:center;
+    list-style-position: inside;
+}
 
 
 

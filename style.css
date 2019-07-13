@@ -43,6 +43,11 @@ a:hover {
     position: fixed; /* Set the navbar to fixed position */
     top: 0; /* Position the navbar at the top of the page */
     width: 100%; /* Full width */
+
+    border-color: rgb(255, 255, 255);
+    border-width: 9px;
+    border-style: solid;
+
 }
 .c {
     text-align: justify;
